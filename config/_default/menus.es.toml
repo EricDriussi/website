@@ -1,0 +1,48 @@
+[[main]]
+  identifier = "posts"
+  name = "Inicio"
+  url = ""
+  weight = 1
+
+[[main]]
+  identifier = "sobre"
+  name = "Sobre"
+  url = "about"
+  weight = 2
+
+[[main]]
+  parent = "sobre"
+  name = "Web"
+  url = "about"
+
+[[main]]
+  parent = "sobre"
+  name = "Mi"
+  url = "resume"
+
+[[main]]
+  identifier = "archive"
+  name = "Archivo"
+  url = "archive"
+  weight = 3
+
+[[main]]
+    name = "Secciones"
+    url = "posts"
+    weight = 4
+
+[[main]]
+    name = "Mucho Texto"
+    url = "/categories/TLDR"
+    parent = "Secciones"
+
+[[main]]
+    name = "Como Hacer"
+    url = "/categories/howto"
+    parent = "Secciones"
+
+[[main]]
+  identifier = "searx"
+  name = "Searx!"
+  url = "https://searx.niceadsl.xyz"
+  weight = 6

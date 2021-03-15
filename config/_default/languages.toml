@@ -1,0 +1,13 @@
+[en]
+  title = "Back to Basics"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[es]
+  title = "Back to Basics"
+  languageName = "Español"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/es"
