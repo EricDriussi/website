@@ -1,6 +1,7 @@
 baseURL = ""
 title = "Back to Basics"
 theme = "zzo"
+disqusShortname = "niceadsl"
 
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
