@@ -42,7 +42,13 @@
     parent = "Secciones"
 
 [[main]]
+  identifier = "showcase"
+  name = "Proyectos!"
+  url = "showcase"
+  weight = 7
+
+[[main]]
+  parent = "showcase"
   identifier = "searx"
   name = "Searx!"
-  url = "https://searx.niceadsl.xyz"
-  weight = 6
+  url = "showcase/searx"
