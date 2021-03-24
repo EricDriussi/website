@@ -12,7 +12,7 @@ header:
     infos:
         name: Eric
         email: ericdriussijobs@gmail.com
-        website: https://www.niceadsl.xyz
+        website: https://www.unixmagick.xyz
         addr: Actualmente resido en España 🇪🇸
 items:
     - title: Tecnologías

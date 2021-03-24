@@ -1,7 +1,7 @@
-logoText = "Back to Basics"
+logoText = "Unix Magick!"
 logoType = "short" # long, short
 logo = "true"
-description = "Barely related stuff"
+description = "Barely related"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -58,7 +58,7 @@ typeIcon = "🎯"
 
 # whoami
 myname = "Eric"
-email = "testmesempai@gmail.com"
+email = "ericdriussijobs@gmail.com"
 whoami = "Developer?"
 bioImageUrl = ""
 useGravatar = false
@@ -177,7 +177,7 @@ commento = false
   weibo = ""
   douban = ""
   csdn = ""
-  gitlab = ""
+  gitlab = "https://gitlab.com/ericdriussi"
   mastodon = ""
   jianshu = ""
   zhihu = ""

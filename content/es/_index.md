@@ -25,9 +25,9 @@ header:
       paddingY: 0
       align: center
       title:
-          - Vuelta a lo básico!
+          - Unix Magick!
       subtitle:
-          - Sin tanta mariconada
+          - Un pinguino mágico
       titleColor:
       titleShadow: true
       titleFontSize: 44

@@ -25,9 +25,9 @@ header:
       paddingY: 0
       align: center
       title:
-          - Back to Basics!
+          - Unix Magick!
       subtitle:
-          - Cut the BS.
+          - A magical penguin
       titleColor:
       titleShadow: true
       titleFontSize: 44
@@ -113,4 +113,3 @@ header:
             subtitleFontSize: 16
             spaceBetweenTitleSubtitle: 20
 ---
-
