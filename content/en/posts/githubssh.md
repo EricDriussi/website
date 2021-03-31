@@ -19,7 +19,6 @@ Github is giving you a headache with its nice _Deprecation Notice_ every time yo
 ## Create SSH keys
 
 The following command creates a pair of keys: a public one (ending in .pub) and a private one.
-http://localhost:1313/en/githubssh/#
 [We'll copy](http://niceadsl.xyz/en/posts/githubssh/#get-the-public-key-in-the-repote-repo) the content of the .pub file in the github repo's settings.
 
 ```bash
