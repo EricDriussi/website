@@ -46,6 +46,12 @@
     url = "/categories/howto"
     parent = "Secciones"
 
+
+[[main]]
+    name = "LeanMind"
+    url = "/categories/leanmind"
+    parent = "Secciones"
+
 [[main]]
   identifier = "showcase"
   name = "Proyectos!"
