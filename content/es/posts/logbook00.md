@@ -1,6 +1,6 @@
 ---
 title: "Bitácora #00"
-url: /es/logbook0/
+url: /es/logbook00/
 date: 2021-04-05T20:01:17+01:00
 draft: true
 image: /images/logbook.png

@@ -8,7 +8,7 @@ useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
-themeOptions = ["dark", "light", "hacker", "kimbie"]
+themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "tldr", "presentation", "resume"]
 notAllowedTypesInHomeSidebar = ["about", "archive"]
 notAllowedTypesInArchive = ["about"]

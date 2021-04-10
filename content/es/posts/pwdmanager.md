@@ -85,7 +85,7 @@ Cojonudo, gratuito, respeta la privacidad y sin mariconadas.
 
 #### [KeePassXC](https://keepassxc.org/)
 
-Solución mínimalista (aunque no tanto como simplemente usar[pass](https://www.passwordstore.org/)). Es una implementación multiplataforma del estándar [KeePass](https://wiki.archlinux.org/index.php/KeePass) con soporte añadido para plugin de navegador.
+Solución mínimalista (aunque no tanto como simplemente usar [pass](https://www.passwordstore.org/)). Es una implementación multiplataforma del estándar [KeePass](https://wiki.archlinux.org/index.php/KeePass) con soporte añadido para plugin de navegador.
 
 Tienes una bóveda local encriptada que conectas al plugin y ya está.
 **Tú** estás a cargo de los backups y la seguridad y podrás acceder a las contraseñas solo desde local, pero no hay literalmente más nadie involucrado. Ni siquiera una conexión con tu propio servidor.

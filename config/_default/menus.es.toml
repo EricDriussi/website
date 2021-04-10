@@ -42,7 +42,7 @@
     parent = "Secciones"
 
 [[main]]
-    name = "Cómo Hacer"
+    name = "Cómo"
     url = "/categories/howto"
     parent = "Secciones"
 
