@@ -18,7 +18,7 @@ E inspeccionar la BD desde pgadmin.
 
 ### Supongo
 
--   Un conocimiento básico de cómo funcionan **Spring** y **Postgres**.
+-   Un conocimiento básico de cómo funcionan [**Spring**](https://spring.io/) y [**Postgres**](https://www.postgresql.org/).
 -   Un conocimiento básico de cómo trabajar con sistemas **SQL**.
 
 ## Spring
@@ -39,7 +39,7 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 Si la BD se encontrara en remoto, habría que sustituir el primer valor por la URL de conexión.
 Por defecto, el puerto de postgres será 5432.
 
-Con ésto ya tendríamos conexión. Pero, sobre todo en entornos con Liquidbase, resulta muy útil consultar los dato de manera explícita.
+Con ésto ya tendríamos conexión. Pero, sobre todo en entornos tipo [Liquidbase](https://www.liquibase.com/) (que pueden crear su BD sobre la marcha), resulta muy útil consultar los dato de manera explícita.
 
 ## Postgres / pgAdmin
 
@@ -69,7 +69,7 @@ networks:
 
 <sub><sub>Simpre que Docker esté debidamente instalado, el servicio arrancado y docker-compose levantado.</sub></sub>
 
-Existen varias formas de inspeccionar una BD. En el caso de postgres, al menos en Linux, lo más sencillo es usar pgAdmin. El ejemplo usa `pacman` pero seguramente podrás encontrarlo en cualquier repositorio oficial.
+Existen varias formas de inspeccionar una BD. En el caso de [postgres](https://www.pgadmin.org/), al menos en Linux, lo más sencillo es usar pgAdmin. El ejemplo usa `pacman` pero seguramente podrás encontrarlo en cualquier repositorio oficial.
 
 ```sh
 sudo pacman -S pgadmin4
