@@ -15,7 +15,7 @@ El lujo de poder programar '_sin saber_'.
 
 <!--more-->
 
-La verdad es que con [Huella Positiva](https://huellapositiva.com/) es la primera vez que me veo involucrado en un proyecto con éstas tres importantes características:
+La verdad es que con [Huella Positiva](https://github.com/ayudadigital/huelladigital-backend) es la primera vez que me veo involucrado en un proyecto con éstas tres importantes características:
 
 -   Open Source.
 -   Ya comenzado.
@@ -37,11 +37,11 @@ Si el nombre de tu método o clase permite que un desarrollador **ajeno** al pro
 Al crecer el número de clases y de métodos, así como la funcionalidad del programa, se va complicando eso de '_leer el código_'.
 Las funciones de búsqueda global que suelen ofrecer los IDEs, facilitan mucho una orientación básica de por dónde van los tiros.
 
-Pero desde luego, tener la posibilidad de hacer `Ctrl+Space` y simplemente leer las opciones que la API te da, agiliza muchísimo la programación.
+Pero desde luego, tener la posibilidad de hacer `Ctrl + Space` y simplemente leer las opciones que la API te da, agiliza muchísimo la programación.
 
 Tener nombres **compuestos**, **claros** y **explícitos** para clases y métodos aporta una fluidez importante al ritmo de trabajo sobre todo con las primeras tareas en el proyecto.
 
-Incluso sin conocer plenamente (ni parcialmente) el código podremos tirar de una intuición a la siguiente y medio 'adivinar' por dónde van los tiros.
+Incluso sin conocer plenamente (ni parcialmente) el código, podremos tirar de una intuición a la siguiente y medio 'adivinar' por dónde van los tiros.
 El propio _IntelliSense_ nos irá chivando las respuestas.
 
 ![typing](../../../images/typing.gif)
