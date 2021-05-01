@@ -33,6 +33,12 @@ You don't need to worry about the `passphrase` IF YOU DON'T CARE ABOUT SECURITY.
 
 ## Update the local agent
 
+#### Note:
+
+You'll have to repeat the next step before every push.
+Make your life easier be throwing a `git config credential.helper store` to tell git to remember your credentials for the repo at hand.
+Use the `--global` tag for this to apply always to all local repositories.
+
 Within the local repo:
 
 ```bash

@@ -1,7 +1,7 @@
 ---
 title: "Como usar Github con SSH"
 date: 2021-03-19T17:50:39Z
-url: /es/githubssh/
+url: /githubssh/
 draft: true
 image: /images/git-logo.png
 categories:
@@ -32,6 +32,12 @@ Por defecto lo guardará en `~/.ssh/`, sería recomendable tirar un `mkdir ~/.ss
 No tienes porque preocuparte del `passphrase` SI NO TE PREOCUPA LA SEGURIDAD, de lo contrario procura que sea una frase corta y suerte con recordarla!
 
 ## Actualizar el agente local
+
+#### Nota:
+
+Deberás repetir el paso siguiente antes de cada push.
+Facilitate la vida lanzando `git config credential.helper store` para que git recuerde las credenciales del repo en cuestión.
+Usa el tag `--global` para que ésto se aplique siempre a todos los repositorios locales.
 
 Dentro del repositorio a autorizar:
 
