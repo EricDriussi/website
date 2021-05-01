@@ -62,3 +62,9 @@
   identifier = "searx"
   name = "Searx!"
   url = "showcase/searx"
+
+[[main]]
+  parent = "showcase"
+  identifier = "nextcloud"
+  name = "NextCloud"
+  url = "showcase/nextcloud"
