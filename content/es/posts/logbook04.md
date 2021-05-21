@@ -1,5 +1,5 @@
 ---
-title: "Logbook #04 - Sobre Nombres Descriptivos"
+title: "Bitácora #04 - Sobre Nombres Descriptivos"
 url: /es/logbook04/
 date: 2021-04-28T20:02:24+01:00
 draft: true
