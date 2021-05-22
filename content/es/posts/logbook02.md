@@ -1,6 +1,6 @@
 ---
 title: "Bitácora #02 - Sobre nombres y sinónimos"
-url: /es/logbook02/
+url: ./logbook02/
 date: 2021-04-15T17:59:31+01:00
 draft: true
 image: /images/logbook.png

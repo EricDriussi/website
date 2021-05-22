@@ -1,6 +1,6 @@
 ---
 title: "How to not use Google"
-url: /en/web-search/
+url: ./web-search/
 date: 2021-04-25T11:42:43+01:00
 draft: true
 image: /images/magnify.png

@@ -1,6 +1,6 @@
 ---
 title: "Logbook #00"
-url: /en/logbook00/
+url: ./logbook00/
 date: 2021-04-05T21:00:16+01:00
 draft: true
 image: /images/logbook.png

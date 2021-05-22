@@ -1,6 +1,6 @@
 ---
 title: "Bitácora #06 - ¿En la nube o en las nubes?"
-url: es/logbook06/
+url: ./logbook06/
 date: 2021-05-17T20:00:43+01:00
 draft: true
 image: /images/logbook.png

@@ -1,6 +1,6 @@
 ---
 title: "Kata: Parentesis Válidos"
-url: es/valid-parenthesis/
+url: ./valid-parenthesis/
 date: 2021-05-12T19:58:03+01:00
 draft: true
 image: /images/valid.png

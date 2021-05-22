@@ -1,5 +1,5 @@
 ---
-url: /en/spring-scheduler/
+url: ./spring-scheduler/
 date: 2021-04-29T17:19:52+01:00
 title: "How to use Spring Scheduler"
 draft: true

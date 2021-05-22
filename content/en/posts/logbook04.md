@@ -1,5 +1,5 @@
 ---
-url: /en/logbook04/
+url: ./logbook04/
 date: 2021-04-28T20:02:32+01:00
 title: "Logbook #04 - About Descriptive Names"
 draft: true

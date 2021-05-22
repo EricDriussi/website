@@ -1,6 +1,6 @@
 ---
 title: "Why use a password manager"
-url: /en/pwdmanager/
+url: ./pwdmanager/
 date: 2021-03-31T19:49:26+01:00
 draft: true
 image: /images/pwd.png

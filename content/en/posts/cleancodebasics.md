@@ -1,6 +1,6 @@
 ---
 title: "Clean Code Basics"
-url: /en/cleancodebasics/
+url: ./cleancodebasics/
 date: 2021-03-24T14:52:21Z
 draft: true
 image: /images/uncleBob.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Logbook #01 - About learning"
-url: /en/logbook01/
+url: ./logbook01/
 date: 2021-04-09T20:37:09+01:00
 draft: true
 image: /images/logbook.png

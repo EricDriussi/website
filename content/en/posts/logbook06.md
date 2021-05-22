@@ -1,5 +1,5 @@
 ---
-url: en/logbook06/
+url: ./logbook06/
 date: 2021-05-21T19:00:48+01:00
 title: "Logbook #06 - On the cloud or up in the clouds?"
 draft: true

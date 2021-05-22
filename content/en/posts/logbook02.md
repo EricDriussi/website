@@ -1,6 +1,6 @@
 ---
 title: "Logbook #02 - About names and synonyms"
-url: /en/logbook02/
+url: ./logbook02/
 date: 2021-04-15T19:42:03+01:00
 draft: true
 image: /images/logbook.png

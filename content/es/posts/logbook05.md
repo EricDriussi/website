@@ -1,6 +1,6 @@
 ---
 title: "Bitácora #05 - Un par de Katas"
-url: es/logbook05/
+url: ./logbook05/
 date: 2021-05-09T12:05:06+01:00
 draft: true
 image: /images/logbook.png

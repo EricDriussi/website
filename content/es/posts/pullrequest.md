@@ -1,6 +1,6 @@
 ---
 title: "Cómo hacer una Pull Request"
-url: /es/pullrequest/
+url: ./pullrequest/
 date: 2021-04-15T21:49:38+01:00
 draft: true
 image: /images/prpr.png

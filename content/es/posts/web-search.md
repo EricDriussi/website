@@ -1,6 +1,6 @@
 ---
 title: "Cómo no usar Google"
-url: /es/web-search/
+url: ./web-search/
 date: 2021-04-25T11:42:43+01:00
 draft: true
 image: /images/magnify.png
@@ -36,7 +36,7 @@ Una alternativa general bastante buena, excepto tal vez para búsquedas de image
 ### [Startpage](https://startpage.com)
 
 Un front-end distinto para Google. La idea es que aún quieres los resultados de Google (por algún motivo) pero preferirías no tener a los de la NSA en casa para cenar.
-Éste método [debería](https://github.com/prism-break/prism-break/issues/168) eliminar las chorradas personalizadas de Google.
+Éste método [debería](https://github.com/prism-break/prism-break/issu./168) eliminar las chorradas personalizadas de Google.
 Tienen su sede en Europa, lo cual tal vez de aporte algo más de confianza.
 Aún con eso, al ser de código cerrado tendrás que confiar en ellos y en Google (en menor medida).
 

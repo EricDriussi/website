@@ -1,6 +1,6 @@
 ---
 title: "How to Pull Request"
-url: /en/pullrequest/
+url: ./pullrequest/
 date: 2021-04-15T20:22:39+01:00
 draft: true
 image: /images/prpr.png
@@ -50,7 +50,7 @@ git commit -m "pull me pls"
 git push origin pr-branch
 ```
 
-<sub>Need to set up [ssh](https://unixmagick.xyz/en/githubssh/)?</sub>
+<sub>Need to set up [ssh](https://unixmagick.xyz./githubssh/)?</sub>
 
 Don't stress, you are just updating **YOUR** fork.
 

@@ -19,7 +19,7 @@ Github te da el huevo mandándote un _Deprecation Notice_ por correo al hacer pu
 ## Crear claves SSH
 
 El siguiente comando crea un par de llaves: una pública (terminada en .pub) y otra privada.
-[Copiaremos](http://niceadsl.xyz/es/posts/githubssh/#meter-clave-publica-en-el-repositorio-remoto) el contenido del archivo .pub en los ajustes de github.
+[Copiaremos](http://niceadsl.xyz./posts/githubssh/#meter-clave-publica-en-el-repositorio-remoto) el contenido del archivo .pub en los ajustes de github.
 
 ```bash
 ssh-keygen -t rsa -b 4096 -C "tu_mail@ejemplo.es"

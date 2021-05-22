@@ -1,7 +1,7 @@
 ---
 title: "How to connect Spring and Postgre"
 date: 2021-04-22T19:31:41+01:00
-url: /en/spring-postgre/
+url: ./spring-postgre/
 draft: true
 image: /images/pgadmin-logo.png
 categories:

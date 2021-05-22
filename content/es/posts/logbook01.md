@@ -1,6 +1,6 @@
 ---
 title: "Bitácora #01 - Sobre el aprendizaje"
-url: /es/logbook01/
+url: ./logbook01/
 date: 2021-04-09T20:37:22+01:00
 draft: true
 image: /images/logbook.png

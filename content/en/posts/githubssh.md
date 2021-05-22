@@ -1,5 +1,5 @@
 ---
-url: /en/githubssh/
+url: ./githubssh/
 date: 2021-03-19T20:22:52Z
 draft: true
 title: "How to use Github with SSH"
@@ -19,7 +19,7 @@ Github is giving you a headache with its nice _Deprecation Notice_ every time yo
 ## Create SSH keys
 
 The following command creates a pair of keys: a public one (ending in .pub) and a private one.
-[We'll copy](http://niceadsl.xyz/en/posts/githubssh/#get-the-public-key-in-the-repote-repo) the content of the .pub file in the github repo's settings.
+[We'll copy](http://niceadsl.xyz./posts/githubssh/#get-the-public-key-in-the-repote-repo) the content of the .pub file in the github repo's settings.
 
 ```bash
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"

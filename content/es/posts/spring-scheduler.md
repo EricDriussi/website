@@ -1,6 +1,6 @@
 ---
 title: "Cómo usar Spring Scheduler"
-url: /es/spring-scheduler/
+url: ./spring-scheduler/
 date: 2021-04-29T17:19:46+01:00
 draft: true
 image: /images/spring.png

@@ -1,6 +1,6 @@
 ---
 title: "Bitácora #03 - Sobre la duda"
-url: /es/logbook03/
+url: ./logbook03/
 date: 2021-04-23T18:37:23+01:00
 draft: true
 image: /images/logbook.png
