@@ -109,7 +109,7 @@ Con `res.toArray(T[] array)` podemos decirle a Java que nos convierta la colecci
 Al invocarlo una vez obtenido los datos deseados, podemos devolverlo con toda confianza.
 Así obtenemos la solución expuesta arriba.
 
-#### Filtrado
+### Filtrado
 
 Claro que para los que ya tenga cierto nivel de Stream-Fu hay una solución mucho más elegante:
 
