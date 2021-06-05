@@ -139,8 +139,7 @@ public class ReduceMe {
 
         Factura facturaMinimaCantidadMayorACinco = facturas.stream()
                 .filter(x -> x.getCantidad() > 5) // filter
-                .sorted(
-                        (facturaMayorCantidad, facturaMenorCantidad) ->
+                .sorted((facturaMayorCantidad, facturaMenorCantidad) ->
                                 (facturaMenorCantidad.getCantidad() < facturaMayorCantidad.getCantidad()) ? 1 : -1)
                 .findFirst() // find
                 .orElse(new Factura("00", 0f, -1));
