@@ -7,7 +7,7 @@ image: /images/pwd.png
 categories:
     - why
 tags:
-    - password manager
+    - gestor de contraseñas
     - bitwarden
     - keepassxc
 ---

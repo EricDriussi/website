@@ -9,7 +9,7 @@ categories:
 tags:
     - spring
     - postgre
-    - database
+    - base de datos
 ---
 
 E inspeccionar la BD desde pgAdmin.

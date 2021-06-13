@@ -10,7 +10,7 @@ tags:
     - google
     - searx
     - duckduckgo
-    - search engine
+    - motor de búsqueda
 ---
 
 Así que te has dado cuenta de que usar la búsqueda de Google es más o menos como vivir en '_El Mundo Feliz_' de Huxley. Ahora que?

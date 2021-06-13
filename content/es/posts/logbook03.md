@@ -10,7 +10,7 @@ categories:
 tags:
     - leanmind
     - shadowing
-    - learning
+    - aprendizaje
 ---
 
 Ante la duda, levante las manos y grite aterrorizado.
