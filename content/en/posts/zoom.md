@@ -66,7 +66,7 @@ That's actually kinda funny.
 
 Remember that lack of encryption from earlier? There technically was encryption going on... Just between their clients and their servers.
 Soooo...
-Zoom says they [didn't](https://www.consumerreports.org/privacy/zoom-tightens-privacy-policy-says-no-user-videos-analyzed-for-ads/) (big surprise), but they are fully capable of collecting user data (including, video stream, audio stream, names, chat... The whole lot) since they keep the encryption keys for themselves.
+Zoom says they [didn't](https://www.consumerreports.org/privacy/zoom-tightens-privacy-policy-says-no-user-videos-analyzed-for-ads/) (big surprise), but they are fully capable of collecting user data (including video stream, audio stream, names, chat... The whole lot) since they keep the encryption keys for themselves.
 
 ![ours](../../../images/bugs-bunny.jpeg)
 
@@ -85,7 +85,7 @@ Just don't expect me to trust your company.
 
 What would you know, talking crap about Winnie the Pooh gets you in trouble.
 Who would have thought...
-From Hong-Kong and Wanting to commemorate the [1989 Tiananmen Square Massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests) while on US soil?
+From Hong-Kong and wanting to commemorate the [1989 Tiananmen Square Massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests) while on US soil?
 ![this-guy](../../../images/this-guy.png)
 
 How about a healthy dose of [censorship](https://www.wsj.com/articles/zoom-catches-heat-for-shutting-down-china-focused-rights-groups-account-11591863002?mod=lead_feature_below_a_pos1) instead?
