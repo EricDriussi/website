@@ -41,10 +41,10 @@
     url = "/categories/howto"
     parent = "Sections"
 
-[[main]]
-    name = "LeanMind"
-    url = "/categories/leanmind"
-    parent = "Sections"
+#[[main]]
+    #name = "LeanMind"
+    #url = "/categories/leanmind"
+    #parent = "Sections"
 
 [[main]]
     name = "Why"

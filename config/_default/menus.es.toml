@@ -47,10 +47,10 @@
     parent = "Secciones"
 
 
-[[main]]
-    name = "LeanMind"
-    url = "/categories/leanmind"
-    parent = "Secciones"
+#[[main]]
+    #name = "LeanMind"
+    #url = "/categories/leanmind"
+    #parent = "Secciones"
 
 [[main]]
   identifier = "showcase"
