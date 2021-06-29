@@ -34,6 +34,9 @@ Ahora tenemos algo con lo que trabajar.
 
 Mantengamos las cosas ordenadas, crea una rama nueva y muévete a ella para mantener tu trabajo separado.
 
+Asegúrate de crear la rama desde aquella a la que pretendes que se haga el merge.
+Si se trabaja en `develop` no crees tu rama desde `master`.
+
 ```bash
 git checkout -b pr-branch
 ```
@@ -46,7 +49,7 @@ git checkout -b pr-branch
 
 ```bash
 git add .
-git commit -m "pull me pls"
+git commit -m "merge me pls"
 git push origin pr-branch
 ```
 
