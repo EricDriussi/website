@@ -34,6 +34,9 @@ Now we got something to work with.
 
 Let's keep things tidy, make a new branch and check out to it to keep you work separated.
 
+Make sure you are creating the branch from the one you wish to get yours merged with.
+If they work on `develop` don't make the new branch from `main`.
+
 ```bash
 git checkout -b pr-branch
 ```
@@ -46,7 +49,7 @@ Done coding? Behave like you would when working on your own projects.
 
 ```bash
 git add .
-git commit -m "pull me pls"
+git commit -m "merge me pls"
 git push origin pr-branch
 ```
 
