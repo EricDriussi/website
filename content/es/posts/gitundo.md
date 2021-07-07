@@ -123,4 +123,20 @@ Recordemos que otros pueden estar trabajando con el **mismo** `origin` que nosot
 `-m 1` implica que git mantendrá la rama a hacia la cual se hizo el merge.
 En caso de no tratarse de un merge, obviaremos el tag.
 
+### Solución nuclear
+
+Por si no fue suficiente.
+
+```
+git push -f origin <id-del-último-commit-válido>:<nombre-rama>
+git reset --hard <id-del-último-commit-válido>
+```
+
+### Explicación
+
+El primer comando obliga (`-f`) al repositorio remoto a apuntar al commit pasado por parámetro, cargándose los que hubiera entre éste y el HEAD.
+
+El segundo como vimos más arriba, deja el repositorio local como estaba en el commit seleccionado, cargándose todos los cambios realizados entre éste y el HEAD.
+Claro que si lo que queremos es arreglar algo nos ahorraremos este paso, corrigiendo lo necesario y haciendo un commit como si nada.
+
 ![prettycool](../../../images/prettygood.gif)

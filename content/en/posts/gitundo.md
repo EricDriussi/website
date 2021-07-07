@@ -123,4 +123,20 @@ Remember, other people might be working on the **same** `origin` as we are, we s
 `-m 1` implies that git will preserve the branch to which the merge was done.
 If it's not a merge we'll simply not use the `-m` tag.
 
+### Nuclear solution
+
+In case it wasn't enough.
+
+```
+git push -f origin <last_known_good_commit>:<branch_name>
+git reset --hard <last_known_good_commit>
+```
+
+### Explanation
+
+The first command forces (`-f`) the remote repo to point to the given commit, deleting the ones between it and HEAD.
+
+The second one, as we saw above, leaves the local repo as it was in the selected commit, deleting all changes made between it and HEAD.
+Of course, if all we want is to fix something we'll skip this step, amending what's necessary and committing as we always would.
+
 ![prettycool](../../../images/prettygood.gif)
