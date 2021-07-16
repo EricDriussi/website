@@ -58,6 +58,12 @@ Además, es bastante bueno con las imágenes.
 El razonamiento anterior aplica aquí más o menos por igual. No deja de ser un poco una porquería de servicio con respecto a la privacidad, pero puede ser útil si entendido correctamente.
 Por otra parte, si estás metido en temas de crypto o finanzas en general, tienen un par de herramientas bastante útiles.
 
+### [Qwant](https://www.qwant.com/)
+Con sede en Francia, recientemente ha dejado de depender de Microsoft para indexar la web. Diseño simple y fácil de usar.
+
+### [Wolframalpha](https://www.wolframalpha.com/)
+Pensado para uso académico. Bastante diferente a lo que comúnmente entendemos por un buscador, pero realmente útil en cuanto a temas técnicos.
+
 ### [Yandex](https://yandex.com)
 
 Para aquellos que odian la NSA pero les encantaría conocer al ~~KGB~~ SVR. Con sede en Países Bajos pero Ruso de corazón, parece bastante poco seguro pero puede ser interesante para investigar sobre política. Puedes estar seguro de que no encontrarás mucha **propaganda** Americana ahí.
@@ -75,7 +81,7 @@ Básicamente, lanza consultas a un puñado de buscadores diferentes y te present
 
 ![meta-search](../../../images/meta-search.png)
 
--   No ofrece resultados personalizados, porque no genera un eprfil sobre ti.
+-   No ofrece resultados personalizados, porque no genera un perfil sobre ti.
 -   No guarda ni comparte lo que buscas.
 -   Es [FOSS](https://es.wikipedia.org/wiki/Software_libre_y_de_c%C3%B3digo_abierto) (código [aquí](https://github.com/searx)) por lo que puedes alojar tu propia instancia (como ago yo con el enlace de arriba) o simplemente eligir una en la que confíes de [ésta](https://searx.space/) lista y usarlo.
 

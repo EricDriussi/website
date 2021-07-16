@@ -58,6 +58,12 @@ Also, it's actually pretty good for image searches.
 The same reasoning as above more or less applies here as well. Still a shitty service privacy wise, but useful if understood correctly.
 Plus, if you are into crypto or finance in general, it has some pretty useful tools.
 
+### [Qwant](https://www.qwant.com/)
+Based in France, it recently stopped depending on Microsoft for indexing. Simple and easy to use design.
+
+### [Wolframalpha](https://www.wolframalpha.com/)
+Mainly used in academia. Rather different from what is commonly understood by '*Seach Engine*', but rather useful with technical searches.
+
 ### [Yandex](https://yandex.com)
 
 For those who hate the NSA but would love to meet the ~~KGB~~ SVR. Based in the Netherlands but also kind of Russian, it seems really sketchy but might be interesting for political research. You can bet you wont find much American **propaganda** there.
