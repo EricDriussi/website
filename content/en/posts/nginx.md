@@ -125,7 +125,7 @@ This should allow your website to be reachable from the web although **still in 
 
 <img style="float: left; margin: 2%" src="../../../images/lock.png">
 
-There are multiple wasy of going about this, but by far the easiest is to use `certbot`.
+There are multiple ways of going about this, but by far the easiest is to use `certbot`.
 
 ```
 apt install python-certbot-nginx
