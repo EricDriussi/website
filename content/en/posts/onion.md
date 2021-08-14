@@ -67,13 +67,7 @@ Get your onion address with `cat /var/lib/tor/hidden_service/hostname`.
 
 If you know how to [set up `nginx`](https://unixmagick.xyz/en/nginx/#install--configure) this won't be anything new to you.
 
-Simply create your `nginx` config file for the onion site by launching this into your terminal:
-
-```
-nano /etc/nginx/sites-available/your-onion-website
-```
-
-Then paste and adjust this config:
+Simply create your `nginx` config file for the onion site by opening `/etc/nginx/sites-available/your-onion-website` with your favourite text editor. Then, paste and adjust these lines:
 
 ```
 server {
@@ -84,7 +78,7 @@ server {
 }
 ```
 
-Make sure to symlink the config file to `/etc/nginx/sites-enabled` and reload `nginx`
+Make sure to symlink the config file to `/etc/nginx/sites-enabled` and reload `nginx`.
 
 If you find any of this difficult to follow go [here](https://unixmagick.xyz/en/nginx/#install--configure) and come back later.
 
