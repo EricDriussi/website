@@ -3,7 +3,7 @@ url: ./maintain/
 date: 2021-07-12T17:15:12+01:00
 title: "How to VPS"
 draft: true
-image: /images/firewall.png
+image: /images/server.png
 categories:
     - howto
 tags:
@@ -18,7 +18,7 @@ Some basic tips.
 
 ## SSH
 
-The idea is, we generate an ssh key on our computer and make our server trust it (not too different from what we did [here](https://unixmagick.xyz/githubssh/)).
+The idea is, we generate an ssh key on our computer and make our server trust it (not too different from what we did [here](https://unixmagick.xyz/en/githubssh/)).
 A SSH key pair is the fastest, easiest and more secure way of remotely accessing your server.
 
 It will allow us to bypass the root password completely, making access quicker, easily scriptable and brute-force proof.
@@ -88,7 +88,7 @@ Of course, to download something from the VPS, just reverse the parameters in th
 There are certain routine tasks that are better left to Cron.
 This software will take care of running any command with a given frequency or repetition pattern.
 
-Say, for example that you want to automate updates for your server.
+Say, for example, that you want to automate updates for your server.
 You could run `crontab -e` and insert something like `30 2 * * 0 apt -y update && apt -y upgrade` into the file. Make sure to save before closing the file.
 
 Let's break it down:
