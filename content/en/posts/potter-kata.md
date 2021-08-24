@@ -140,7 +140,7 @@ Now we can start solving the Kata, worrying above all else about getting those t
 ### TDD
 
 There's quite a few tests.
-Jest documentation suggests that if a test is failing, one should run it by itseld. This is achieved by appending `.only` to the red test declaration.
+Jest documentation suggests that if a test is failing, one should run it by itself. This is achieved by appending `.only` to the red test declaration.
 
 I just kept adding the tag to each test one by one, so that by the end of it, they were all running.
 
